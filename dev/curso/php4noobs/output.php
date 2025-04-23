@@ -7,7 +7,6 @@ echo "Ola Twich"."-" . 123 . PHP_EOL;
  * e visualizar  o que está acontecendo no código.
  *
  * As funções a serem utilizadas: echo, var_dump
- *
  * Constantes a serem utilizadas: PHP_EOL
  */
 var_dump("djsajdasj");
